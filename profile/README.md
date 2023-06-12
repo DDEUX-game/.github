@@ -5,7 +5,7 @@ For Chainlink Hackathon Judges:
 1. Check the Contracts in the Contracts repo.  We use these to enable a revenue flow (and cost offset for our backend wallet will need to initiate transactions to RankedMatches (for security). For now, we just have a Price Feed secured purchasable Ranked Match Access key and the RankedMatches game state tracker.
 ![image](https://github.com/DDEUX-game/.github/assets/62179036/c7ac75b3-4250-4e1e-b8de-12a7ed412801)
 
-2. Our mobile-first front-end is on the Frontend repo. This is where most of the code lives.  Tippi started the frontend a bit before the hackathon, but the new cards, sockets and web3 security features (such as token gating with Thirdweb Auth) all happened during the hackathon. 
+2. Our [mobile-first front-end is on the Frontend repo](https://github.com/tippi-fifestarr/dd2/tree/flips). This is where most of the code lives.  Tippi started the frontend a bit before the hackathon, but the new cards, sockets for chat and web3 security features (such as token gating with Thirdweb Auth) all happened during the hackathon. 
 <img src="https://github.com/DDEUX-game/.github/assets/62179036/40091d69-16ef-4500-a2cb-5c28046d9b4e.png" alt="drawing" style="width:200px;"/>
 
 3. [Our project submission page (in case you accidentally closed the tab or you aren't really a hackathon judge).](https://devpost.com/software/ddeux-the-game)
